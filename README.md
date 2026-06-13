@@ -46,13 +46,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/rustam-2007/rustam-2007/blob/output/github-snake-dark.svg" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
